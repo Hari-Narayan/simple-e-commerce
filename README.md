@@ -29,7 +29,7 @@ Used socket.io for auto update stock in real time.
 
 
 # Update stock
-You can update stock from API call manualy.
+You can update stock from API call manually.
 
 Endpoint Like: http://localhost:4000/api/product/updateStock/:productID
 
