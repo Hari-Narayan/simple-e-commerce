@@ -38,3 +38,10 @@ body: {
 }
 
 its open for now.
+
+# Test Users
+[
+  { fullName: "Alice", email: "alice@example.com", password: "123456" },
+  { fullName: "Bob", email: "bob@example.com", password: "123456" },
+  { fullName: "Charlie", email: "charlie@example.com", password: "123456" },
+]
